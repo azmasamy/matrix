@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1550250304 source:d:\c projects\templates hw\main.cpp
+	<iostream>
+	"matrix.h"
+
+1550243183 d:\c projects\templates hw\matrix.h
+
+1550263269 source:d:\c projects\templates hw\src\matrix.cpp
+	"matrix.h"
+	<iostream>
+
+1550262338 d:\c projects\templates hw\include\matrix.h
+
